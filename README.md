@@ -10,9 +10,19 @@ FWSL is a classroom logic prototype for a community flood early warning workflow
 
 The FloodWatch SL early warning system (FWSL) solves the problem of late and inconsistent flood warnings in Freetown communities by providing a structured, repeatable, low-cost decision process. Key aspects of the problem and its solution include:
 
-- The Problem: Seasonal flooding in Freetown causes deaths, displacement and cholera outbreaks. Communities learn a flood is coming only when water enters their homes, and decisions about when to warn are made informally and inconsistently.
-- The Solution: A structured algorithm that turns rainfall, river level, drainage blockage and households at risk into a score from 0 to 135, an alert level (LOW, MODERATE, HIGH or SEVERE), a colour and a recommended action. If blockage is 70% or more AND river level is 75% or more, the alert is raised one level.
-- Impact: Gives communities time to move belongings and evacuate, gives NDMA and the City Council an objective basis for allocating response resources, and supports a shift from reactive to anticipatory disaster response aligned with Sustainable Development Goals (SDG 11, SDG 13 and SDG 3).
+## The Problem
+
+Seasonal flooding in Freetown causes deaths, displacement and cholera outbreaks. Communities learn a flood is coming only when water enters their homes, and decisions about when to warn are made informally and inconsistently.
+
+
+## Solution
+
+ A structured algorithm that turns rainfall, river level, drainage blockage and households at risk into a score from 0 to 135, an alert level (LOW, MODERATE, HIGH or SEVERE), a colour and a recommended action. If blockage is 70% or more AND river level is 75% or more, the alert is raised one level.
+
+
+ ## Impact
+
+Gives communities time to move belongings and evacuate, gives NDMA and the City Council an objective basis for allocating response resources, and supports a shift from reactive to anticipatory disaster response aligned with Sustainable Development Goals (SDG 11, SDG 13 and SDG 3).
 
 ## SDG alignment
 
